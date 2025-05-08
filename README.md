@@ -1,8 +1,9 @@
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kareem+Farouh!+😎🎩🪄;" />
-     <img src="https://user" />
 </div>
-
+<div align="center">
+     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2o4MHYwYzV1a3hiZXN4OHRxcnhpeXp3MGliZ3FmN2E2Z2RoZDR0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IpeYSEZshTefe/giphy.gif" />
+</div>
 <br>
 
 ## 🙋‍♂️ About Me:
